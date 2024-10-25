@@ -1,0 +1,26 @@
+.lolo{
+    width: 250px;
+    height: 250px;
+}
+header{
+    display: flex;
+}
+h1{
+    text-align: center;
+}
+.linha{
+    display: flex;
+}
+.fotos{
+padding-left: 5%;
+}
+.imagem{
+    width: 350px;
+    height: 350px;
+}
+
+.pepe{
+    font-size: 24px;
+}
+
+.fot{ font-size: 24px;}
